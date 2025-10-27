@@ -4,6 +4,16 @@ A repo of thruntellisearch stuff for my son.
 ## Purpose
 - To teach my son how to do thruntellisearch. 
 - Probably my nephews too if they want to try.
+- Because I keep it basic, I think this may work for adults who are wondering if this is something they would be interested in doing.
+
+## Thoughts on this
+- I'm writing this in Obsidian.
+	- It's free to use.
+	- You can download Obsidian, and then download this repo, and view it in Obsidian.
+	- Alternatively, you can use whatever markdown reader you like.
+		- It also renders quite nicely in VS Code.
+	- The markdown files with images (snips) are large because the images are inline Base64 encoded images.
+		- This is simpler, so that I don't have to mess around with those MD image links (I don't like that)
 - There is a priority to use free tools that can be used without login.
 	- Next up on the priority are free tools (with login).
 - In the beginning lessons, there isn’t much discussion on what the bad activities are or how they work, it focuses on analyzing infrastructure patterns.
