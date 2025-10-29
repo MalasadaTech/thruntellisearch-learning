@@ -17,4 +17,4 @@ When a Cyber Security professional reads CTI reports, they need to search their 
 - Record the methods to monitor the threat actor activities
 - Periodically perform external searches to find additional adversary infrastructure
 
-The guide above is for intel-driven hunts (hunts that begin because you read someone else's report on something). There are also hypothesis-driven hunts - we'll discuss those later.
+The guide above is for intel-driven hunts (hunts that begin because you read someone else's report on something). There are also hypothesis-driven hunts. The hypothesis is basically an educated guess. These are hunts that start off with a hunch something like "Threat actors phish for login credentials for Bank A by creating fake websites that pretend to be Bank A, so there must be phishing sites that pretend to be Bank B". You can test this hypothesis and search for masquerading sites pretending to be Bank B.
