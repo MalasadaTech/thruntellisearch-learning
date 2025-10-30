@@ -10,10 +10,11 @@ These are the concepts that must be known before starting. At some point, I'll f
 	- Understand how the title tag sets the title
 - **Understand hashing**
 	- Understand how any resource can be ran through a hashing algorithm to generate a unique hash for that resource (most commonly image files and malware files)
-- **Understand a defanging**
+- **Understand defanging**
+	- Indicators, like URLs and domains, are defanged so that if you accidentally click on it, you won't access the resource
 	- Use a [.] for domains and IPs
-	- It can vary with {.} or \.
-	- Proofpoint uses a space in their rule titles like example .com
+	- It can vary with {.} or \\.
+	- ProofPoint uses a space in their rule titles like example .com
 - **Understand domain registration**
 - **Understand** that the term “**adversary infrastructure**” is a fancy way to say the domains or IPs that a cyber criminal uses.
 - **Understand** **first-hand** and **external** validation concepts
