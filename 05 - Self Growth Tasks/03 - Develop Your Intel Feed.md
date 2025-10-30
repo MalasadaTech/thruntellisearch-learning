@@ -1,0 +1,5 @@
+# 03 - Develop Your Intel Feed
+
+We've used ProofPoint's Emerging Threats Rule Summaries as an intel source, we've discussed how THREATfox could be used as an intel source, and we've discussed how posts on X can be used for intel leads. Every time you read a quality post on X, review that person's other posts. Follow the people on X that consistently post quality reporting. Click like on the posts that add value; it will help improve your X suggestions. Mute people that don't add value to your feed, or click the "Not interested in this post" link if it doesn't add value; it will help X improve your suggestions. Over time, your X feed will be focused on CTI posts. 
+
+Identify an AI source that can provide CTI summaries for you. You can prompt Grok things like "Provide me with the latest CTI reporting on SocGholish. Provide reference links that I can verify."

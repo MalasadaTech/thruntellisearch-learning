@@ -1,0 +1,3 @@
+# 02 - Master the CTI Analysis Process
+
+In the simplest terms, you must learn how to ingest an intel product, identify and extract the key parts, take action on those key parts, identify additional adversary infrastructure, and search for adversary activity (if you have access to a work environment), or report findings for the community. As you continue to practice this, it will become second nature.

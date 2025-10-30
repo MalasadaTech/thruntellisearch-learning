@@ -1,0 +1,5 @@
+# 04 - Develop Your Technical Analysis
+
+This collection of learning documents was not meant to teach technical analysis. That is, it's not meant to teach you how to read malicious code. This learning collection was meant to show you how there are patterns in adversary infrastructure, and you can use these patterns to find more adversary infrastructure. When there was technical analysis in this collection, it was me pointing it out to you. I didn't really go deep in explanation. You can go back to each topic, you can use Grok to provide you on reporting on each topic, and you can review all of the prior reporting on each topic. There is a wealth of knowledge that other analysts have published, and you can use their works to improve your skills.
+
+Make the individual goal of learning enough about each concept so that you can be able to teach it. In the work environment, as each individual team member learns something new, we collectively teach each other what we've learned so that we grow together as one cohesive unit.
