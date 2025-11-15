@@ -1,5 +1,9 @@
 (REVISE: FOLLOW THE FLOW OF THE SLIDE DECK, FOR IT IS REFINED)
 
+## Point in Time Disclaimer
+
+This represents how things are in the current point in time. The info, patterns, and pivot techniques changed in the past, and will likely change in the future. Monitor threats for subtle changes.
+
 We will use ProofPoint as an intel lead again, and search for LandUpdate808.
 
 [https://community.emergingthreats.net/search?q=LandUpdate808%20order%3Alatest](https://community.emergingthreats.net/search?q=LandUpdate808%20order%3Alatest)

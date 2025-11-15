@@ -1,5 +1,9 @@
 (REVISE: Need to add in TA and EK. It should list TA, Delivery (FAKEUPDATE, ClickFix, WebInject), EK specific (ZPHP, LandUpdate808, KeitaroTDS), Payload (Malware))
 
+## Point in Time Disclaimer
+
+This represents how things are in the current point in time. The info, patterns, and pivot techniques changed in the past, and will likely change in the future. Monitor threats for subtle changes.
+
 It is important to highlight certain concepts at this point. You may have seen in the ZPHP/SmartApeSG snips that some ZPHP indicators on THREATfox are labeled as the FAKEUPDATES malware family, while some SmartApeSG indicators on THREATfox are labeled as the “NetSupportManager RAT” malware family. This can become confusing. It’s important to understand the concepts of a threat actor, a delivery method (or lure technique), a campaign, and the malware.
 
 For ZPHP or SmartApeSG, there is no threat actor designation. 

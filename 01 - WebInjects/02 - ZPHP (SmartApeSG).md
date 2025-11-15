@@ -3,6 +3,10 @@
 
 (REVISE: FOLLOW THE FLOW OF THE SLIDE DECK, FOR IT IS REFINED. That is in addition to the other TODO stuff...)
 
+## Point in Time Disclaimer
+
+This represents how things are in the current point in time. The info, patterns, and pivot techniques changed in the past, and will likely change in the future. Monitor threats for subtle changes.
+
 Alias concept: 
 
 Threat actors and malware names have aliases. That is other names that they are known as. Different security vendors may track things by different names. For this next one, keep in mind that ProofPoint tracks it as ZPHP, while others track it as SmartApe or SmartApeSG. It’s important to understand the alias concept so that you know you’re talking about the same thing with other people.
