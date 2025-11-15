@@ -14,9 +14,7 @@ Threat actors and malware names have aliases. That is other names that they are 
 
 ## Proofpoint as an Intel Lead
 
-For ZPHP, we will use Proofpoint ET as our intel lead again.
-
-Search the Ruleset Update Summary lists for ZPHP. 
+For ZPHP, we will use Proofpoint ET as our intel lead again. Search the Ruleset Update Summary lists for ZPHP. 
 
 [https://community.emergingthreats.net/search?q=ZPHP%20order%3Alatest](https://community.emergingthreats.net/search?q=ZPHP%20order%3Alatest)
 
