@@ -1,6 +1,8 @@
   
 [] Todo - Make checkpoints and summary.
 
+(REVISE: FOLLOW THE FLOW OF THE SLIDE DECK, FOR IT IS REFINED. That is in addition to the other TODO stuff...)
+
 Alias concept: 
 
 Threat actors and malware names have aliases. That is other names that they are known as. Different security vendors may track things by different names. For this next one, keep in mind that ProofPoint tracks it as ZPHP, while others track it as SmartApe or SmartApeSG. It’s important to understand the alias concept so that you know you’re talking about the same thing with other people.

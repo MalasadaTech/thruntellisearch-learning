@@ -1,3 +1,5 @@
+(REVISE: FOLLOW THE FLOW OF THE SLIDE DECK, FOR IT IS REFINED)
+
 We will use ProofPoint as an intel lead again, and search for LandUpdate808.
 
 [https://community.emergingthreats.net/search?q=LandUpdate808%20order%3Alatest](https://community.emergingthreats.net/search?q=LandUpdate808%20order%3Alatest)

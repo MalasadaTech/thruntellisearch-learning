@@ -1,3 +1,5 @@
+
+(REVISE: Need to complete the drafted summary first, then revisit this intro based on the summary...)
 ## Web Injects
 Web injects describe bad guy stuff where the threat actor injects malicious code into a compromised site. It could be to trick the victim into downloading malware, or it could also be used to steal the victims credit card info. We will learn about tracking the former.
 

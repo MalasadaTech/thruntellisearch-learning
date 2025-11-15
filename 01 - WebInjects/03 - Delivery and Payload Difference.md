@@ -1,10 +1,12 @@
+(REVISE: Need to add in TA and EK. It should list TA, Delivery (FAKEUPDATE, ClickFix, WebInject), EK specific (ZPHP, LandUpdate808, KeitaroTDS), Payload (Malware))
+
 It is important to highlight certain concepts at this point. You may have seen in the ZPHP/SmartApeSG snips that some ZPHP indicators on THREATfox are labeled as the FAKEUPDATES malware family, while some SmartApeSG indicators on THREATfox are labeled as the “NetSupportManager RAT” malware family. This can become confusing. It’s important to understand the concepts of a threat actor, a delivery method (or lure technique), a campaign, and the malware.
 
 For ZPHP or SmartApeSG, there is no threat actor designation. 
 
-The delivery method (or lure technique) is called FakeUpdates. It’s called fake updates because code is injected into compromised websites to load a page that tells the user their browser needs to be updated. The update file that is provided is malware. 
+The delivery method (or lure technique) is called FakeUpdates. It’s called fake updates because code is injected into compromised websites to load a page that tells the user their browser needs to be updated. The update file that is provided is malware.  Note that ZPHP now uses the ClickFix technique to trick the victim into executing a malicious command.
 
-ZPHP or SmartApeSG is the campaign designator. Proofpoint calls it ZPHP [[https://www.proofpoint.com/us/blog/threat-insight/are-you-sure-your-browser-date-current-landscape-fake-browser-updates](https://www.proofpoint.com/us/blog/threat-insight/are-you-sure-your-browser-date-current-landscape-fake-browser-updates)]. I couldn’t find the reasoning stated, but I assess that Proofpoint likely uses ZPHP because of the early resources that used a long string starting with a Z. For example, “/zwewmrqqgqnaww.php”. 
+I consider ZPHP or SmartApeSG to be a campaign designation. Proofpoint calls it ZPHP [[https://www.proofpoint.com/us/blog/threat-insight/are-you-sure-your-browser-date-current-landscape-fake-browser-updates](https://www.proofpoint.com/us/blog/threat-insight/are-you-sure-your-browser-date-current-landscape-fake-browser-updates)]. I couldn’t find the reasoning stated, but I assess that Proofpoint likely uses ZPHP because of the early resources that used a long string starting with a Z. For example, “/zwewmrqqgqnaww.php”. 
 
 Jérôme Segura reports that Malwarebytes named it SmartApeSG by combining the AS, SmartApe, and SG (for SocGholish) [[https://www.threatdown.com/blog/smartapesg-06-11-2024/](https://www.threatdown.com/blog/smartapesg-06-11-2024/)]. 
 
