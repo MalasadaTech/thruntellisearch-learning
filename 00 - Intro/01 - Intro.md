@@ -18,3 +18,9 @@ When a Cyber Security professional reads CTI reports, they need to search their 
 - Periodically perform external searches to find additional adversary infrastructure
 
 The guide above is for intel-driven hunts (hunts that begin because you read someone else's report on something). There are also hypothesis-driven hunts. The hypothesis is basically an educated guess. These are hunts that start off with a hunch something like "Threat actors phish for login credentials for Bank A by creating fake websites that pretend to be Bank A, so there must be phishing sites that pretend to be Bank B". You can test this hypothesis and search for masquerading sites pretending to be Bank B.
+
+## Tool Preference
+
+I use many different tools. Some are free, some cost money. Some can be used without logging in, some require a login. Some let you use a free email address for signup, some require a non-free email address for signup. This collection of learning sections will prioritize tools that are free and can be used without authentication. My son and nephews are the target audience for this training collection. Using free and unauthenticated tools removes barriers to entry for my family, and for anyone else that may use this.
+
+I recommend that everyone explore every tool that is available, even if I don't list it.
