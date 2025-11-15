@@ -1,5 +1,5 @@
 ## Web Injects
-Web injects describe bad guy stuff where the threat actor injects malicious code into a compromised site. It could be to trick the victim into downloading malware, or it could also be used to steal the victims credit card info. We will learn about the former.
+Web injects describe bad guy stuff where the threat actor injects malicious code into a compromised site. It could be to trick the victim into downloading malware, or it could also be used to steal the victims credit card info. We will learn about tracking the former.
 
 ## TA2726, ZPHP/SmartApeSG, LandUpdate808
 
