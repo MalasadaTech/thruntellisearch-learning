@@ -2,8 +2,8 @@
 A repo of thruntellisearch stuff for my son.
 
 ## Purpose
-- To teach my son how to do thruntellisearch. 
-- Probably my nephews too if they want to try.
+- To share my hobby with my son, and to teach him how to do "thruntellisearch". 
+	- Probably my nephews too if they want to try.
 - Because I keep it basic, I think this may work for adults who are wondering if this is something they would be interested in doing.
 
 ## Thoughts on this
@@ -25,14 +25,4 @@ A repo of thruntellisearch stuff for my son.
 I discuss the pre-reqs.
 
 ## 01 - WebInjects
-In this section we discuss web injects TA2726, ZPHP/SmartApeSG, and LandUpdate808. We follow the following pattern:
-- Begin with an intel lead
-- Use the lead to find compromised sites
-- Find the inject pattern
-- Use the pattern to find additional compromised sites
-- Find an external source to validate our findings
-
-We also discuss the key concept of making the distinction between identifiers for thractors, delivery methods, and malware.
-
-
-26OCT25 - Initial start. Work in progress...
+In this section, we explore web injects using TA2726, ZPHP, and LandUpdate808 as examples. Key concepts include intel sources, inject patterns, infrastructure templates, pivots, validation methods, attribution types, aliases, and the overall process of threat intelligence analysis.
