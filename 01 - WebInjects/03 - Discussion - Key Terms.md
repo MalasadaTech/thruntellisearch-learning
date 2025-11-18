@@ -1,4 +1,4 @@
-# 03 - Key Terms Discussion
+# 03 - Discussion - Key Terms
 
 ## Point in Time Disclaimer
 

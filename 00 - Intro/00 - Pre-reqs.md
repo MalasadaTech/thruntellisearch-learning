@@ -1,6 +1,6 @@
 # Pre-required knowledge
 
-These are the concepts that must be known before starting.
+I don't think there is a hard requirement to know the concepts below, but these would be nice-to-know things. I guess you should be able to continue without know the concepts below.
 
 - **Understand DNS**
 	- Understand how a domain name needs to be resolved to an IP address
@@ -14,7 +14,7 @@ These are the concepts that must be known before starting.
 	- Use a [.] for domains and IPs
 	- It can vary with {.} or \\.
 	- ProofPoint uses a space in their rule titles like example .com
-- **Understand domain registration**
+- **Understand the domain registration process**
 - **Understand** that the term “**adversary infrastructure**” is a fancy way to say the domains or IPs that a cyber criminal uses.
 - **TA** is for **threat actor** - or "the bad guy"
 - **Understand** **first-hand** and **external** validation concepts
