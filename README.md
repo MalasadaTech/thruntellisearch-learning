@@ -26,3 +26,6 @@ I discuss the pre-reqs.
 
 ## 01 - WebInjects
 In this section, we explore web injects using TA2726, ZPHP, and LandUpdate808 as examples. Key concepts include intel sources, inject patterns, infrastructure templates, pivots, validation methods, attribution types, aliases, and the overall process of threat intelligence analysis.
+
+## Future Sections
+Sections 02-05 are currently in the works and are not polished products.
