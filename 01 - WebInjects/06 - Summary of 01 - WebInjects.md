@@ -12,6 +12,10 @@ We discussed how the sections represent how things are in the current point in t
 
 To learn about things, we need intel sources. We've learned how we can use Proofpoint and THREATfox as intel sources. We use their reporting and submissions as intel leads for indicators and named "things" such as TA2726, ZPHP, and LandUpdate808.
 
+## Pivot Platforms
+
+We used urlscan and VirusTotal to perform basic pivots. These are platforms that can be used to find additional adversary infrastructure. Explore the tools. Learn as much as you can about them. Master your tools. 
+
 ## Inject Patterns
 
 We've learned that the code injected into compromised websites have patterns. Specifically, we've learned the URI patterns such as a long weird string can be used to identify TA2726 injects, “/work/original.js” can be used to identify ZPHP, and "#X#X.js" can be used to identify LandUpdate808 injects.
@@ -33,7 +37,7 @@ Intel sources can be used for external validation. You can use Proofpoint and TH
 
 First-hand validation is verifying the pattern yourself. It should hold a higher value than external validation because it is what you "witness", but it should still be used in addition to external validation when possible. urlscan.io can be used to perform first-hand validation.
 
-## Different Attribution Types
+## Different Object Types
 
 We discussed the distinction, and the importance of the distinction, between different things. We discussed the WebInjects, FAKEUPDATES, and ClickFix techniques. We discussed the differences between a threat actor (TA), exploit kits (EKs), and payloads.
 
@@ -46,6 +50,7 @@ You need to know what aliases are. All the different CTI sources may use differe
 - Ingest intel
 - Identify the pattern that can be used to identify additional infrastructure
 - Identify the unique property that can be used for validation
+- Perform the pivot
 - Validate the additional indicator
 - Find an external validation
 

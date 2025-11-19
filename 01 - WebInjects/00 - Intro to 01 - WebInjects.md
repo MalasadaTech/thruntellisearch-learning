@@ -15,6 +15,7 @@ We will use TA2726, ZPHP, and LandUpdate808 to learn the concepts below. We will
 	- Ingest intel
 	- Identify the pattern that can be used to identify additional infrastructure
 	- Identify the unique property that can be used for validation
+	- Perform the pivot
 	- Validate the additional indicator
 	- Find an external validation
 - The Way Forward
