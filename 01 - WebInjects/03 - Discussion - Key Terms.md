@@ -1,5 +1,11 @@
 # 03 - Discussion - Key Terms
 
+## Video Resources
+
+- A collection of "shorts" is here: 
+	- https://odysee.com/$/playlist/62c6f7e6d93afb82c42948f592cb54dc5f4040ef
+	- I will have a long form video up soon
+
 ## Point in Time Disclaimer
 
 This represents how things are in the current point in time. The info, patterns, and pivot techniques changed in the past, and will likely change in the future. Monitor threats for subtle changes.
