@@ -1,6 +1,12 @@
 
 # 05 - Discussion - General Process and Next Steps
 
+## Video Resources
+
+- A collection of "shorts" is here: 
+	- https://odysee.com/@MalasadaTech:8/Thruntellisearch-01-WebInjects-05-Process:c
+	- I will have a long form video up soon
+
 This section probably could've been discussed earlier in the first section. I wanted this design this to be something that you "jump in head first" into. That is, I didn't want to throw an excessive amount of concepts at you before you start performing tasks. I figure it would be easier and more interesting to begin defining patterns and producing results at the start. That is why this discussion is at the end of the section and not in the beginning.
 
 The general steps that we've taken so far can be summarized with the bullet points below.

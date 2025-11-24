@@ -1,5 +1,11 @@
 # 04 - LandUpdate808
 
+## Video Resources
+
+- A collection of "shorts" is here: 
+	- https://odysee.com/@MalasadaTech:8/Thruntellisearch-01-WebInjects-04-LandUpdate808:9
+	- I will have a long form video up soon
+
 ## Intro
 
 This exercise will use the LandUpdate808 exploit kit to learn concepts and techniques. It’s a specific subset of web injects. Previously, it used the Fake Update theme, but it currently uses the ClickFix technique.

@@ -1,5 +1,11 @@
 # Summary of 01 - WebInjects
 
+## Video Resources
+
+- A collection of "shorts" is here: 
+	- https://odysee.com/@MalasadaTech:8/Thruntellisearch-01-WebInjects-06-Summary:d
+	- I will have a long form video up soon
+
 ## Summary
 
 We've used TA2726, ZPHP, and LandUpdate808 to learn the concepts below.

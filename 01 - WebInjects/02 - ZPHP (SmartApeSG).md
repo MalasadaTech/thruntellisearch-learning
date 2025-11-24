@@ -3,7 +3,7 @@
 ## Video Resources
 
 - A collection of "shorts" is here: 
-	- https://odysee.com/$/playlist/6affb5966077eaf7bd595edaad23233f697edf97
+	- https://odysee.com/@MalasadaTech:8/Thruntellisearch-01-WebInjects-02-ZPHP:6
 	- I will have a long form video up soon
 
 ## Point in Time Disclaimer
