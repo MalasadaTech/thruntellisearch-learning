@@ -38,7 +38,18 @@ Description:
 Sample URL to use as a reference:
 (Example: You can perform a reverse lookup using VT via this link - and you can observe the additional domains: https://www.virustotal.com/gui/ip-address/144.31.193.106/relations)
 
+
+## Additional Indicator
+
+List the additional indicator(s) you found:
+(Example: javascriptbasics[.]com)
+
 ## External Validation Method
 
 Description: 
-(Example: You can use VT's comments in the community tab to validate via external validation. The comments in the following link shows that there is reporting on THREATfox that assesses javascriptbasics[.] is a TA2726 domain: https://www.virustotal.com/gui/domain/javascriptbasics.com/community)
+(Example: You can use VT's comments in the community tab to validate via external validation. The comments in the following link shows that there is reporting on THREATfox that assesses javascriptbasics[.]com is a TA2726 domain: https://www.virustotal.com/gui/domain/javascriptbasics.com/community)
+
+## Internal Validation
+
+Link to show validation proof:
+(Example: The following link shows that javascriptbasics[.]com uses the same WebInject pattern: https://urlscan.io/result/0199d4c1-a59b-754d-97a3-97de08b1f9d2/#transactions)
