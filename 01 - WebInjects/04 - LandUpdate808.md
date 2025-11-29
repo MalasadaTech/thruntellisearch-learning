@@ -4,7 +4,8 @@
 
 - A collection of "shorts" is here: 
 	- https://odysee.com/@MalasadaTech:8/Thruntellisearch-01-WebInjects-04-LandUpdate808:9
-	- I will have a long form video up soon
+- The long form is here:
+	- https://odysee.com/@MalasadaTech:8/TL-01-WI-04-LandUpdate808-Longform:2
 
 ## Intro
 

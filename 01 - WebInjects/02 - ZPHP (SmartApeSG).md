@@ -4,7 +4,8 @@
 
 - A collection of "shorts" is here: 
 	- https://odysee.com/@MalasadaTech:8/Thruntellisearch-01-WebInjects-02-ZPHP:6
-	- I will have a long form video up soon
+- The long form is here:
+	- https://odysee.com/@MalasadaTech:8/TL-01-WI-02-ZPHP-Longform:5
 
 ## Point in Time Disclaimer
 
