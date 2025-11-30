@@ -26,4 +26,9 @@ Not all aggregators are the same. As you review aggregators, analyze how much va
 
 Review the Sources
 
-In addition to analyzing the value added, review the sources that are cited. Perform the same analysis. Does the source add value? Is it first hand reporting? I enjoy reading articles from news aggregators because they provide a high-level overview, and they introduce sources that I might not have been aware of otherwise. In the Bleeping Computer article that I mentioned above, they reference this article: https://arcticwolf.com/resources/blog/malvertising-campaign-delivers-oyster-broomstick-backdoor-via-seo-poisoning-trojanized-tools/. We will action the Arctic Wolf Networks' report in unit 04 of this Masquerades section.
+In addition to analyzing the value added, review the sources that are cited. Perform the same analysis. Does the source add value? Is it first hand reporting? I enjoy reading articles from news aggregators because they provide a high-level overview, and they introduce sources that I might not have been aware of otherwise. In the Bleeping Computer article that I mentioned above, they referenced multiple articles. I list them below. We will action the Arctic Wolf Networks' report, the blackpoint report. We will not action the Rapid7 report because I think it might be too stale. The Rapid7 report is good to understand historical data, but maybe not for action.
+ https://arcticwolf.com/resources/blog/malvertising-campaign-delivers-oyster-broomstick-backdoor-via-seo-poisoning-trojanized-tools/
+ 
+https://blackpointcyber.com/blog/malicious-teams-installers-drop-oyster-malware/
+
+https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/
