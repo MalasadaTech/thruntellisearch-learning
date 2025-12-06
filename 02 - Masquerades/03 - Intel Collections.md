@@ -25,7 +25,7 @@ We are about to begin a journey that may result in many intel sources, and a lot
 
 ## Source Table
 
-The table below is the source table.
+The table below is the source table. 
 
 | Reference # | Date      | Source               | Title                                                                                            | Comments                                                                                        | URL                                                                                                                                 |
 | ----------- | --------- | -------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,6 +48,32 @@ Now that we've got the source table, we can create the indicator table, that ref
 | 7           | 2        | Delivery - Landing Masq | teams-install[.]icu   |                                                     |
 | 8           | 2        | Delivery - Landing Masq | teams-install[.]top   |                                                     |
 | 9           | 2        | Delivery - Landing Masq | anydesksoftware[.]net |                                                     |
+
+## PIVOT TABLE
+
+Now we need to record the pivots. It will be used as a source, so that it can be referenced.
+
+| Pivot # | Description | Pivot Platform | Pivot                                                                                                     |
+| ------- | ----------- | -------------- | --------------------------------------------------------------------------------------------------------- |
+| 1       | Teams Masqs | urlscan        | page.title:"Download Microsoft Teams Desktop and Mobile Apps \| Microsoft Teams" AND filename:"download*" |
+
+## Updated Source Table
+
+Now that we've recorded the pivot. We need to update the source table to include the pivot as a source. See below for the new reference - Reference #4.
+
+| Reference # | Date      | Source               | Title                                                                                            | Comments                                                                                        | URL                                                                                                                                 |
+| ----------- | --------- | -------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1           | 02 JUL 25 | Arctic Wolf Networks | Malvertising Campaign Delivers Oyster/Broomstick Backdoor via SEO Poisoning and Trojanized Tools | Includes indicators for putty fake apps. Mentions WinSCP masqs, but doesn't include indicators. | https://arcticwolf.com/resources/blog/malvertising-campaign-delivers-oyster-broomstick-backdoor-via-seo-poisoning-trojanized-tools/ |
+| 2           | 26 SEP 25 | blackpoint           | Malicious Teams Installers Drop Oyster Malware                                                   | Includes indicators for Teams and AnyDesk masqs.                                                | https://blackpointcyber.com/blog/malicious-teams-installers-drop-oyster-malware/                                                    |
+| 3           | 17 JUN 25 | Rapid7               | Malvertising Campaign Leads to Execution of Oyster Backdoor                                      | May be too aged for action, but good for situational awareness.                                 | https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/                            |
+| 4           | 30 NOV 25 | Pivot                | Teams Pivot                                                                                      | Results from a urlscan pivot.                                                                   | Pivot table - pivot #1.                                                                                                             |
+
+(UPDATE THE INDICATOR TABLE!)
+## Updated Indicator Table
+
+
+(BEFORE CONTINUING, MAKE SURE TO ADD THE INITIAL LEAD, AND THEN THE PROOFPOINT SOURCE)
+
 ## Take Action!
 
 We will take action on the newly gained intel into the existing knowledge, and use that to continue thruntellisearching. This will continue in section 04.
