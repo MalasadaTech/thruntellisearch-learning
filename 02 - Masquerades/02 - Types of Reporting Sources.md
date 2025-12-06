@@ -6,7 +6,7 @@ Generally, news aggregators will perform little to no first hand technical resea
 
 ## Their Goals
 
-The two sources share a similar goal of spreading awareness, but they have different primary goal - the aggregator will likely have a goal of increasing website visitors for ad revenue, while the intrusion reporting would normally highlight driving product sales (their cyber security product or service). 
+The two source types share a similar goal of spreading awareness, but they have different primary goals - the aggregator will likely have a goal of increasing website visitors for ad revenue, while the intrusion reporting would normally highlight driving product sales (their cyber security product or service). 
 
 ## Visibility/Telemetry
 
