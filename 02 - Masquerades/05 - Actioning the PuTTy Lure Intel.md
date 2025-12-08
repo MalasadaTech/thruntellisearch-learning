@@ -215,41 +215,41 @@ This is the current Source Table. Note that I've updated the comments on the piv
 
 This is the current Indicator Table.
 
-| Indicator # | Source # | Phase Description                  | Indicator                    | Notes                                               |
-| ----------- | -------- | ---------------------------------- | ---------------------------- | --------------------------------------------------- |
-| 1           | 1, 6     | Delivery - Landing Masq            | teams-install[.]icu          | Initial lead indicator                              |
-| 2           | 2        | Delivery - Dynamic Delivery Domain | witherspoon-law[.]com        | Gleaned from analysis of Source #1                  |
-| 3           | 3        | Delivery - Landing Masq            | teams-app[.]bet              | Indicator from pivot #1                             |
-| 4           | 3        | Delivery - Dynamic Delivery Domain | compaq-computers[.]com       | Gleaned from analysis of Indicator #3               |
-| 5           | 4, 6     | Delivery - Landing Masq            | teams-install[.]top          |                                                     |
-| 6           | 5, 11    | Delivery - Landing Masq            | updaterputty[.]com           |                                                     |
-| 7           | 5        | Delivery - Landing Masq            | zephyrhype[.]com             | First glance, unable to determine if it's malicious |
-| 8           | 5, 11    | Delivery - Landing Masq            | putty[.]run                  |                                                     |
-| 9           | 5, 11    | Delivery - Landing Masq            | putty[.]bet                  |                                                     |
-| 10          | 5, 11    | Delivery - Landing Masq            | puttyy[.]org                 |                                                     |
-| 11          | 6        | Delivery - Landing Masq            | team[.]frywow[.]com          |                                                     |
-| 12          | 6        | Delivery - Landing Masq            | anydesksoftware[.]net        |                                                     |
-| 13          | 8        | Delivery - Landing Masq            | winscp[.]id                  | WinSCP-themed lure.                                 |
-| 14          | 8        | Delivery - Dynamic Delivery Domain | dream-me[.]com               |                                                     |
-| 15          | 8        | Delivery - Dynamic Delivery Domain | msaonl[.]com                 |                                                     |
-| 16          | 8        | Delivery - Dynamic Delivery Domain | ncvalor[.]com                |                                                     |
-| 17          | 8        | Delivery - Dynamic Delivery Domain | newfrontieradvisorsllc[.]com |                                                     |
-| 18          | 8        | Delivery - Dynamic Delivery Domain | newhampshirehomebuyer[.]com  |                                                     |
-| 19          | 9        | Delivery - Dynamic Delivery Domain | doctorreportcard[.]com       | Indicator from pivot #2                             |
-| 20          | 9        | Delivery - Dynamic Delivery Domain | toshibaaccessories[.]com     | Indicator from pivot #2                             |
-| 21          | 9        | Delivery - Dynamic Delivery Domain | space-amazons[.]com          | Indicator from pivot #2                             |
-| 22          | 8        | Delivery - Landing Masq            | notepad-plus-plus[.]run      | Notepad++ themed lure                               |
-| 23          | 10       | Delivery - Landing Masq            | www-putty[.]com              | PuTTy themed lure from Pivot #3                     |
-| 24          | 10, 11   | Delivery - Landing Masq            | putty[.]network              | PuTTy themed lure from Pivot #3                     |
-| 25          | 10       | Delivery - Landing Masq            | putty[.]fyi                  | PuTTy themed lure from Pivot #3                     |
-| 26          | 11       | Delivery - Landing Masq            | puttysystems[.]com<br>       |                                                     |
-| 27          | 11       | Delivery - Landing Masq            | puttyy[.]com                 |                                                     |
-| 28          | 11       | Delivery - Landing Masq            | putty[.]lat                  |                                                     |
-| 29          | 11       | Delivery - Landing Masq            | putty[.]us[.]com             |                                                     |
-| 30          | 11       | Delivery - Dynamic Delivery Domain | heartlandenergy[.]ai         |                                                     |
-| 31          | 11       | Delivery - Dynamic Delivery Domain | ruben.findinit[.]com         |                                                     |
-| 32          | 11       | Delivery - Dynamic Delivery Domain | ekeitoro.siteinwp[.]com      |                                                     |
-| 33          | 11       | Delivery - Dynamic Delivery Domain | danielaurel[.]tv             |                                                     |
+| Indicator # | Source # | Phase Description                  | Indicator                    | Notes                                                        |
+| ----------- | -------- | ---------------------------------- | ---------------------------- | ------------------------------------------------------------ |
+| 1           | 1, 6     | Delivery - Landing Masq            | teams-install[.]icu          | Initial lead indicator                                       |
+| 2           | 2        | Delivery - Dynamic Delivery Domain | witherspoon-law[.]com        | Gleaned from analysis of Source #1                           |
+| 3           | 3        | Delivery - Landing Masq            | teams-app[.]bet              | Indicator from pivot #1                                      |
+| 4           | 3        | Delivery - Dynamic Delivery Domain | compaq-computers[.]com       | Gleaned from analysis of Indicator #3                        |
+| 5           | 4, 6     | Delivery - Landing Masq            | teams-install[.]top          |                                                              |
+| 6           | 5, 11    | Delivery - Landing Masq            | updaterputty[.]com           | Actioned this in section 05 - Actioning the PuTTy Lure Intel |
+| 7           | 5        | Delivery - Landing Masq            | zephyrhype[.]com             | First glance, unable to determine if it's malicious          |
+| 8           | 5, 11    | Delivery - Landing Masq            | putty[.]run                  |                                                              |
+| 9           | 5, 11    | Delivery - Landing Masq            | putty[.]bet                  |                                                              |
+| 10          | 5, 11    | Delivery - Landing Masq            | puttyy[.]org                 |                                                              |
+| 11          | 6        | Delivery - Landing Masq            | team[.]frywow[.]com          |                                                              |
+| 12          | 6        | Delivery - Landing Masq            | anydesksoftware[.]net        |                                                              |
+| 13          | 8        | Delivery - Landing Masq            | winscp[.]id                  | WinSCP-themed lure.                                          |
+| 14          | 8        | Delivery - Dynamic Delivery Domain | dream-me[.]com               | Gleaned from Pivot #2.                                       |
+| 15          | 8        | Delivery - Dynamic Delivery Domain | msaonl[.]com                 | Gleaned from Pivot #2.                                       |
+| 16          | 8        | Delivery - Dynamic Delivery Domain | ncvalor[.]com                | Gleaned from Pivot #2.                                       |
+| 17          | 8        | Delivery - Dynamic Delivery Domain | newfrontieradvisorsllc[.]com | Gleaned from Pivot #2.                                       |
+| 18          | 8        | Delivery - Dynamic Delivery Domain | newhampshirehomebuyer[.]com  | Gleaned from Pivot #2.                                       |
+| 19          | 9        | Delivery - Dynamic Delivery Domain | doctorreportcard[.]com       | Indicator from pivot #2                                      |
+| 20          | 9        | Delivery - Dynamic Delivery Domain | toshibaaccessories[.]com     | Indicator from pivot #2                                      |
+| 21          | 9        | Delivery - Dynamic Delivery Domain | space-amazons[.]com          | Indicator from pivot #2                                      |
+| 22          | 8        | Delivery - Landing Masq            | notepad-plus-plus[.]run      | Notepad++ themed lure                                        |
+| 23          | 10       | Delivery - Landing Masq            | www-putty[.]com              | PuTTy themed lure from Pivot #3                              |
+| 24          | 10, 11   | Delivery - Landing Masq            | putty[.]network              | PuTTy themed lure from Pivot #3                              |
+| 25          | 10       | Delivery - Landing Masq            | putty[.]fyi                  | PuTTy themed lure from Pivot #3                              |
+| 26          | 11       | Delivery - Landing Masq            | puttysystems[.]com<br>       |                                                              |
+| 27          | 11       | Delivery - Landing Masq            | puttyy[.]com                 |                                                              |
+| 28          | 11       | Delivery - Landing Masq            | putty[.]lat                  |                                                              |
+| 29          | 11       | Delivery - Landing Masq            | putty[.]us[.]com             |                                                              |
+| 30          | 11       | Delivery - Dynamic Delivery Domain | heartlandenergy[.]ai         |                                                              |
+| 31          | 11       | Delivery - Dynamic Delivery Domain | ruben.findinit[.]com         |                                                              |
+| 32          | 11       | Delivery - Dynamic Delivery Domain | ekeitoro.siteinwp[.]com      |                                                              |
+| 33          | 11       | Delivery - Dynamic Delivery Domain | danielaurel[.]tv             |                                                              |
 
 ## Summary
 
