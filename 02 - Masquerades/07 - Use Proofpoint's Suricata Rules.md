@@ -1,4 +1,4 @@
-## 06 - Use Proofpoint's Suricata Rules
+## 07 - Use Proofpoint's Suricata Rules
 
 ## Intro
 
@@ -42,9 +42,9 @@ https://urlscan.io/result/019a97eb-bc86-733a-8038-06f5589ebc9a/#transactions
 
 It has market12.js... https://urlscan.io/responses/67d6082327e5e9f056da5fd60495a4f542e602f6bd53e2496e6635e7bea98aaf/
 
+************** MAKE A NOTE THAT BECAUSE IT'S CHANGED, WE SHOULD REVISIT PIVOT 1 TO SEE IF IT'S CHANGED AS WELL!
 
-
-
+RECORD ALL DOMAINS FROM THIS TECHNIQUE!
 
 
 FOR THE NEXT SECTIONS, explore the Rufus lures, and any other that can be gleaned from the Oyster checkin rule... 
@@ -54,7 +54,7 @@ Can do notepad-plus-plus[.]run
 
 
 
-Consider adding a C2 section... using C2 posts on X, and the checkin rules form Proofpoint... use those rules and find matches in any run........ that is the C2 domains from the download-script.js file...
+
 
 -------------------------
 
