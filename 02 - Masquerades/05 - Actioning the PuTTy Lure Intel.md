@@ -253,7 +253,7 @@ This is the current Indicator Table.
 
 ## Summary
 
-We have successfully identified additional lures. The thractor is also using PuTTy lures. We continued actioning indicators in this ongoing cycle.
+We have successfully identified additional lures. The thractor is also using PuTTy lures. We continued actioning indicators in this ongoing cycle. We used Proofpoint as external validation.
 
 
 
