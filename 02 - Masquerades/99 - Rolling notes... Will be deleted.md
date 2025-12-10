@@ -80,7 +80,13 @@ introduce searching in github.... =( nm... can't search the code without signing
 
 
 
+------------------------
 
+What's this? Does this reveal anything about the thractor's infra?
+
+https://urlscan.io/result/019aaecb-d04b-7510-b937-93f99aaf510c#summary
+
+^garbage, unrelated...
 
 
 

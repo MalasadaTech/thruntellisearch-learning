@@ -174,7 +174,6 @@ The row below will need to be added to the Indicator Table.
 
 ## Current Tables
 
-
 ## Pivot Table
 
 This is the current Pivot Table.
