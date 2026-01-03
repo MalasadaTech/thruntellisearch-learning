@@ -90,5 +90,86 @@ https://urlscan.io/result/019aaecb-d04b-7510-b937-93f99aaf510c#summary
 
 
 
+----------------------------------
 
+
+
+``` AI-Prompt
+
+Find me cyber threat intel reports on tedbutz.com. It is a C2 domain for Oyster malware. Specifically, I don't want generic intel on recent oyster malware campaigns - I want cyber threat intel sources that lists tedbutz.com in the report's IOC section. I want the list of sources to only include the publish date, URL, report title, and a VERY succinct summary of the report.
+```
+
+
+https://grok.com/c/a7c66db7-1e88-4c6d-a9a7-1ad3cf86a8b2?rid=2d84a789-c5ea-4aad-9483-9dc316c8f5db
+
+``` Example-Result
+
+Publish Date: December 8, 2025 
+URL:https://www.cyberproof.com/blog/oyster-backdoor-resurfaces-analyzing-the-latest-seo-poisoning-attacks/Report 
+Title: Oyster Backdoor 
+Resurfaces: Analyzing the Latest SEO Poisoning Attacks 
+Summary: Details resurgence of Oyster backdoor via SEO poisoning and malvertising since mid-November 2025, using fake installers to drop persistent DLL, with new infrastructure and ransomware ties.
+```
+
+--------------------------------------
+
+
+This first.....
+
+Any Run for `coretether[.]com` and `registrywave[.]com`.... adds microsoft-teams[.]bet and icu...
+
+--------------------------------------------------
+
+
+
+From: 10 - Actioning the C2 Indicators, the Rufus hash: efaae1104c2a532bfaaa2fd11f6345ee321cf0119eeb619526df4f2940795750, if you search it in Any Run, you'll find additional lure domains... This should be before the section below... make the connection that even though https://app.any.run/tasks/dbcc1128-2fba-4ceb-beb1-f0b5b1dc655e shows the executable wasn't allowed to execute, we can glean that `teams-support-software[.]icu` is serving Oyster malware because we confirmed the hash elsewhere, and the any run session shows it serving it....
+
+
+
+below from 02JAN25 section 11 notes...
+-----------------------------------------------------
+
+
+Revisit....... ***OR just work off of the .bet and .icu in the indicator's table... First show the .bet, and highlight how they now redirect to google, then show the .icu and show how they no longer use the download or market.js files any more...***
+
+https://urlscan.io/search/#page.title%3A%22Download%20Microsoft%20Teams%20Desktop%20and%20Mobile%20Apps%20%7C%20Microsoft%20Teams%22%20
+
+https://urlscan.io/result/019ac2d5-dbfd-728d-8b0a-32b8f9d7e679/
+
+Observe the same lure; without download/market.js
+
+https://urlscan.io/result/019ac2d5-dbfd-728d-8b0a-32b8f9d7e679/dom/
+CTRL + F .exe; they are using a direct download...
+
+https://urlscan.io/search/#page.domain%3Amicrosoft-teams.icu
+
+https://urlscan.io/result/019ac359-cab7-7618-ac4e-682fa7655329/
+
+Copy the hash; 
+b5f86a350a6ceb3647f6c35dd276986a7cbfd72e97dcffd57311225e092a8126
+
+
+search it in Any Run
+
+https://app.any.run/tasks/fea125ae-7d22-46c7-bf8b-59d66dbd5a34
+
+It connects to scs-techresources[.]com ***HIGHLIGHT HOW IT ADDS VALUE TO MONITOR INDICATORS AT ALL ATTACK PHASES***
+
+This is a match. They no longer use the download or market JS naming pattern.
+
+
+Highlight how you can track the thractor using the different indicators throughout their delivery and C2
+
+!!! AT SOME POINT, NEED TO HIGHLIGHT THE SCHEDULED TASK BEHAVIOR, SO THAT IT CAN BE USED FOR PATTERN IDENTIFICAITON LATER IN OTHER SECTIONS !!!
+
+
+
+***Possible continuation if we don't revisit the pivot... we can ***
+https://urlscan.io/search/#page.title%3A%22Download%20Microsoft%20Teams%20Desktop%20and%20Mobile%20Apps%20%7C%20Microsoft%20Teams%22%20
+
+https://urlscan.io/search/#micro-saft-teams.live
+Observe they're forwarding to Google
+
+The file download: https://urlscan.io/result/019aecfa-a8d0-769c-9f0f-6564a99229c9/
+is the legit MS Teams: https://www.virustotal.com/gui/file/52ab9768aeed9e5e99636cdc61be377566a8489897724228a21cd057f1c65147/details
 
