@@ -90,38 +90,6 @@ https://urlscan.io/result/019aaecb-d04b-7510-b937-93f99aaf510c#summary
 
 
 
-----------------------------------
-
-
-
-``` AI-Prompt
-
-Find me cyber threat intel reports on tedbutz.com. It is a C2 domain for Oyster malware. Specifically, I don't want generic intel on recent oyster malware campaigns - I want cyber threat intel sources that lists tedbutz.com in the report's IOC section. I want the list of sources to only include the publish date, URL, report title, and a VERY succinct summary of the report.
-```
-
-
-https://grok.com/c/a7c66db7-1e88-4c6d-a9a7-1ad3cf86a8b2?rid=2d84a789-c5ea-4aad-9483-9dc316c8f5db
-
-``` Example-Result
-
-Publish Date: December 8, 2025 
-URL:https://www.cyberproof.com/blog/oyster-backdoor-resurfaces-analyzing-the-latest-seo-poisoning-attacks/Report 
-Title: Oyster Backdoor 
-Resurfaces: Analyzing the Latest SEO Poisoning Attacks 
-Summary: Details resurgence of Oyster backdoor via SEO poisoning and malvertising since mid-November 2025, using fake installers to drop persistent DLL, with new infrastructure and ransomware ties.
-```
-
---------------------------------------
-
-
-This first.....
-
-Any Run for `coretether[.]com` and `registrywave[.]com`.... adds microsoft-teams[.]bet and icu...
-
---------------------------------------------------
-
-
-
 From: 10 - Actioning the C2 Indicators, the Rufus hash: efaae1104c2a532bfaaa2fd11f6345ee321cf0119eeb619526df4f2940795750, if you search it in Any Run, you'll find additional lure domains... This should be before the section below... make the connection that even though https://app.any.run/tasks/dbcc1128-2fba-4ceb-beb1-f0b5b1dc655e shows the executable wasn't allowed to execute, we can glean that `teams-support-software[.]icu` is serving Oyster malware because we confirmed the hash elsewhere, and the any run session shows it serving it....
 
 
