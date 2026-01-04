@@ -1,4 +1,4 @@
-## Types of Reporting Sources
+# 02 - Types of Reporting Sources
 
 In section 02 - Masquerades  unit 01 - Oyster Malware via Teams FakeApp, we found a new intel lead while performing external validation. We found the following Bleeping Computer article: https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/. This is a good point to discuss some concepts like news aggregators, first-hand reporting, the difference between the aggregator and the first-hand reporting, drilling down to review sources, and the intel-loop.
 
