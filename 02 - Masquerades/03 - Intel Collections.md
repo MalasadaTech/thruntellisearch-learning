@@ -1,6 +1,6 @@
 # 03 - Intel Collections
 
-In section 01 - WebInjects, we introduced the intel lead concept. The examples we used were fairly trivial for analyzing the delivery. We were able to simply take an intel lead from Proofpoint and action it. For large-scale operations like that, it may be simple. Smaller scale thractor campaigns can be more dynamic. That is, the thractors can change their lures more often. When the thractor changes often, or employs multiple lures - for example, you will need a wider intel collection.
+In Section `01 - WebInjects`, we introduced the intel lead concept. The examples we used were fairly trivial for analyzing the delivery. We were able to simply take an intel lead from Proofpoint and action it. For large-scale operations like that, it may be simple. Smaller scale thractor campaigns can be more dynamic. That is, the thractors can change their lures more often. When the thractor changes often, or employs multiple lures - for example, you will need a wider intel collection.
 
 ## Intel Collections Concept
 
@@ -71,6 +71,6 @@ Note that the Phase Description
 
 ## Take Action!
 
-We will continue to take action by analyzing the Dynamic Delivery Domains before moving on to the newly gained intel into the existing knowledge, and use that to continue thruntellisearching. This will continue in section 04.
+We will continue to take action by analyzing the Dynamic Delivery Domains before moving on to the newly gained intel into the existing knowledge, and use that to continue thruntellisearching. This will continue in Section 04.
 
 
