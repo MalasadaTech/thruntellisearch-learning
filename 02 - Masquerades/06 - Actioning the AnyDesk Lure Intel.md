@@ -2,7 +2,7 @@
 
 ## Intro
 Continuing down the Indicator Table, the next unique indicator to action is Indicator #12 - the AnyDesk lure domain anydesksoftware[.]net. See below for the current tables.
- 
+  
 ## Pivot Table
 
 This is the current Pivot Table.
