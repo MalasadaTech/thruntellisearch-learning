@@ -1,7 +1,7 @@
 # 06 - Actioning the AnyDesk Lure Intel
 
 ## Intro
-Continuing down the Indicator Table, the next unique indicator to action is Indicator #12 - the AnyDesk lure domain anydesksoftware[.]net. See below for the current tables.
+Continuing down the Indicator Table, the next unique indicator to action is Indicator #12 - the AnyDesk lure domain `anydesksoftware[.]net`. See below for the current tables.
   
 ## Pivot Table
 
@@ -80,11 +80,11 @@ I chose the oldest scan task. It's the task at the bottom of the list. The link 
 
 https://urlscan.io/result/019a3b54-2446-73b7-8f49-14e82b03004a/
 
-Observe that the page title is "Remote Desktop Software for Windows | AnyDesk". We will use the page title just like we did with the other pivots. Check the HTTP transactions tab for the download script. The link below takes you to the transactions tab.
+Observe that the page title is `Remote Desktop Software for Windows | AnyDesk`. We will use the page title just like we did with the other pivots. Check the HTTP transactions tab for the download script. The link below takes you to the transactions tab.
 
 https://urlscan.io/result/019a3b54-2446-73b7-8f49-14e82b03004a/#transactions
 
-In the transactions tab, we can see that it matches the download pattern. It is using "download5.js". 
+In the transactions tab, we can see that it matches the download pattern. It is using `download5.js. 
 
 ## Extract the Dynamic Delivery Domain
 
@@ -92,7 +92,7 @@ You can view the HTTP response by clicking the "Show response" button, or follow
 
 https://urlscan.io/responses/fdaee91a7c31a52a38dded4ac752dc224145f8dd60226d127cc28c3d3d02ddde/
 
-In the HTTP response, we can see the script matches the pattern by configuring the apiUrls at the top. It is using the Dynamic Delivery Domain cleancarcatalog[.]com. 
+In the HTTP response, we can see the script matches the pattern by configuring the apiUrls at the top. It is using the Dynamic Delivery Domain `cleancarcatalog[.]com`. 
 
 ## Update Tables
 
@@ -114,23 +114,23 @@ We will need to add this following row to the Indicator Table.
 
 We can perform the pivot just like the other pivots. The urlscan query is pasted below.
 
-page.title:"Remote Desktop Software for Windows | AnyDesk" AND filename:"download*"
+`page.title:"Remote Desktop Software for Windows | AnyDesk" AND filename:"download*"`
 
 You can run that query or click the link below to go straight to it.
 
 https://urlscan.io/search/#page.title%3A%22Remote%20Desktop%20Software%20for%20Windows%20%7C%20AnyDesk%22%20AND%20filename%3A%22download*%22
 
-I don't like how the legitimate AnyDesk domain shows up in the results. I filter them out by adding " AND NOT anydesk.com" to the end of the query. Here's the new link to the search.
+I don't like how the legitimate AnyDesk domain shows up in the results. I filter them out by adding ` AND NOT anydesk.com` to the end of the query. Here's the new link to the search.
 
 https://urlscan.io/search/#page.title%3A%22Remote%20Desktop%20Software%20for%20Windows%20%7C%20AnyDesk%22%20AND%20filename%3A%22download*%22%20AND%20NOT%20anydesk.com
 
 ## Review the Results and Validate
 
-At the time of creating this content, the result for anydesknow[.]net is the most recent scan. It is also the only additional domain within the year. The scan result link is pasted below.
+At the time of creating this content, the result for `anydesknow[.]net` is the most recent scan. It is also the only additional domain within the year. The scan result link is pasted below.
 
 https://urlscan.io/result/019a3be7-9db0-73f0-bf46-93daf8e0dc4b/
 
-Review it, then take a look at the HTTP Transactions tab and search for the download.js file, and confirm it has the apiUrls at the top of the script. The link below goes to the HTTP Transactions tab.
+Review it, then take a look at the HTTP Transactions tab and search for the `download.js` file, and confirm it has the apiUrls at the top of the script. The link below goes to the HTTP Transactions tab.
 
 https://urlscan.io/result/019a3be7-9db0-73f0-bf46-93daf8e0dc4b/#transactions
 
