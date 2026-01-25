@@ -22,7 +22,7 @@ This section contains the highlights of the key concepts learned. The key concep
 - How we can use AI to find intel reporting on each new indicator.
 - How we can analyze the scheduled task creation in Any Run and VT.
 - How we need to monitor and update pivots as the thractor updates their TTPs.
-- How we need to monitor for thractor upgrades such as redirecting to Google or serving legitimate software instead of malware
+- How we need to monitor for thractor upgrades such as redirecting to Google or serving legitimate software instead of malware.
 - How we can perform pivots using the `shortcut icon` (favicon).
 
 ## Section Details
