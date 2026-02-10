@@ -1,10 +1,5 @@
 # 01 - Any Run Susp-Clipboard and ClickFix Tags
 
-| [Previous](00%20-%20Intro%20to%2004%20-%20ClickFix.md) | [Home](../links.md) | [Next](02%20-%20Any%20Run%20ClickFix%20and%20Email.md) |
-| :------------------------------------------------------ | :-----------------: | ------------------------------------------------------: |
-
-
-
 ## Intro
 
 Just like how we used Any Run to review MalSpam submissions in "05 - Any Run MalSpam Investigations.md", we can use Any Run to review ClickFix events. 
@@ -38,13 +33,3 @@ That's it for now.
 ## Summary
 
 This was just a cursory glance to see what's out there, and to understand a simple Any Run Submission filter combination that can be used to monitor the threats.
-
-
-
-
-
-| [Previous](00%20-%20Intro%20to%2004%20-%20ClickFix.md) | [Home](../links.md) | [Next](02%20-%20Any%20Run%20ClickFix%20and%20Email.md) |
-| :------------------------------------------------------ | :-----------------: | ------------------------------------------------------: |
-
-
-

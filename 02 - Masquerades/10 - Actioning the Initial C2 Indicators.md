@@ -1,10 +1,5 @@
 # 10 - Actioning the Initial C2 Indicators
 
-| [Previous](09%20-%20Analyzing%20the%20C2.md) | [Home](../links.md) | [Next](11%20-%20Using%20AI%20to%20Enrich%20Indicators.md) |
-| :-------------------------------------------- | :-----------------: | ----------------------------------------------------------: |
-
-
-
 ## Intro
 
 In the last section, we identified an initial C2 domain indicator, and then we performed a pivot on its pattern to identify more C2 domains. In this section, we will use a newly gleaned domain indicator to identify more adversary infrastructure.
@@ -168,8 +163,3 @@ This is the current Indicator Table. Take note of the updates to the indicators 
 ## Summary
 
 In this section we took action on the initial C2 indicators. Specifically, we filtered the Any Run sessions for the indicator `tedbutz[.]com`. We sampled two file submissions. We identified the scheduled task pattern, and how it schedules a task to use rundll32.exe to execute a function from a DLL file. We took that observation and found that `rundll32.exe` connects to another C2 domain. Because we have two different types of C2, we named them accordingly to show the distinction between the two.
-
-
-
-| [Previous](09%20-%20Analyzing%20the%20C2.md) | [Home](../links.md) | [Next](11%20-%20Using%20AI%20to%20Enrich%20Indicators.md) |
-| :-------------------------------------------- | :-----------------: | ----------------------------------------------------------: |

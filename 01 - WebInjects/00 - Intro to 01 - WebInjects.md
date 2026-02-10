@@ -1,10 +1,5 @@
 # 00 - Intro to 01 - WebInjects
 
-| [Previous](../00%20-%20Intro/01%20-%20Pre-reqs.md) | [Home](../links.md) | [Next](01%20-%20TA2726.md) |
-| :------------------------------------------------- | :-----------------: | --------------------------: |
-
-
-
 We will use TA2726, ZPHP, and LandUpdate808 to learn the concepts below. We will discuss the bulleted items below. You can just skim the bullets, or you could read ahead to the section summary if you want the details up front. I hope you'll enjoy the process. Let me know if anything should be clarified better.
 
 - Point in Time Disclaimer
@@ -26,6 +21,3 @@ We will use TA2726, ZPHP, and LandUpdate808 to learn the concepts below. We will
 - The Way Forward
 - Closing Remarks
 
-
-| [Previous](../00%20-%20Intro/01%20-%20Pre-reqs.md) | [Home](../links.md) | [Next](01%20-%20TA2726.md) |
-| :------------------------------------------------- | :-----------------: | --------------------------: |

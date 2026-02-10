@@ -1,10 +1,5 @@
 # 03 - ClearFake
 
-| [Previous](02%20-%20Any%20Run%20ClickFix%20and%20Email.md) | [Home](../links.md) | [Next](04%20-%20ClickFix%20Analysis.md) |
-| :---------------------------------------------------------- | :-----------------: | ---------------------------------------: |
-
-
-
 ## Intro
 
 ClearFake is the original ClickFix (that I'm tracking). It uses special techniques to hide commands in blockchain transactions (they call it ether hiding). I don't fully comprehend how it hides it, so I can't speak intelligently on that, but I understand the general process on how it's used for the initial delivery in the attack chain. When you find the block chain domain that is used, you can monitor it for compromised sites. As you increase your list of compromised sites, you can monitor them for infrastructure updates. There's more you can do to monitor the infrastructure, but that would be in a future discussion.
@@ -41,7 +36,3 @@ There are many results that can be analyzed and reported on.
 ## Summary
 
 This was a quick discussion on how the initial ether-hiding domain in the ClearFake delivery can be monitored. Monitor for the calls to that domain, find the compromised sites, and monitor those for additional adversary infrastructure.
-
-
-| [Previous](02%20-%20Any%20Run%20ClickFix%20and%20Email.md) | [Home](../links.md) | [Next](04%20-%20ClickFix%20Analysis.md) |
-| :---------------------------------------------------------- | :-----------------: | ---------------------------------------: |

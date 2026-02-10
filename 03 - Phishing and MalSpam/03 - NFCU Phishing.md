@@ -1,10 +1,5 @@
 # 03 - NFCU Phishing
 
-| [Previous](02%20-%20AAFES%20Phishing%20Masqs.md) | [Home](../links.md) | [Next](04%20-%20PoisonSeed.md) |
-| :------------------------------------------------ | :-----------------: | -------------------------------: |
-
-
-
 ## Intro
 
 We can build on the AAFES hypothesis-driven exercise and turn that towards banking. We’ll keep it military-themed. A common military bank is Navy Federal Credit Union. The real site is navyfederal.org.
@@ -67,6 +62,3 @@ We are skipping the external validator because it is very obvious that these are
 ## Summary
 
 We used a new technique to find fake sites. We’ve used the page titles as a pivot a few times, but we pivoted on an image hash on this one. There are many things that can be used for a pivot. The goal of this is to use the easiest. The page title and image hashes are normally the simplest.
-
-| [Previous](02%20-%20AAFES%20Phishing%20Masqs.md) | [Home](../links.md) | [Next](04%20-%20PoisonSeed.md) |
-| :------------------------------------------------ | :-----------------: | -------------------------------: |

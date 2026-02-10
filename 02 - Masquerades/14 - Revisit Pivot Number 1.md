@@ -1,10 +1,5 @@
 # 14 - Revisit Pivot #1
 
-| [Previous](13%20-%20Actioning%20New%20Masq%20Indicators.md) | [Home](../links.md) | [Next](15%20-%20Favicon%20Pivots.md) |
-| :----------------------------------------------------------- | :-----------------: | -------------------------------------: |
-
-
-
 ## Intro
 
 Some time has passed since Pivot #1 was initially recorded. Given that we observed new behaviors in Section 13, we should revisit Pivot #1 to show the process.
@@ -214,8 +209,3 @@ This is the current Indicator Table.
 ## Summary
 
 In this section we revisited Pivot #1. We updated it as Pivot #5. We learned that the thractor is also serving the legitimate Teams file. We increased the indicators by four.
-
-
-
-| [Previous](13%20-%20Actioning%20New%20Masq%20Indicators.md) | [Home](../links.md) | [Next](15%20-%20Favicon%20Pivots.md) |
-| :----------------------------------------------------------- | :-----------------: | -------------------------------------: |

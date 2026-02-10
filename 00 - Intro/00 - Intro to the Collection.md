@@ -1,12 +1,3 @@
----
----
-# 00 - Intro
-
-| [Previous](../index.md) | [Home](../links.md) | [Next](01%20-%20Pre-reqs.md) |
-| :---------------------- | :-----------------: | ---------------------------: |
-
-
-
 ## What is CTI?
 
 Cyber Threat Intelligence (CTI) describes intelligence on internet bad guys ( the bad guys are commonly referred to as a "threat actors" or "adversaries"). Most CTI reports will discuss a specific incident. It could include stuff like the URL that a victim downloaded malware from, information on the malware like what it does when it's executed, and command and control (C2) activities. These lessons focus on tracking adversary infrastructure - that is, the domains, URLs, and IPs that are used to deliver and C2 malicious activities.
@@ -37,6 +28,3 @@ I use many different tools. Some are free, some cost money. Some can be used wit
 	- I don't know what the alternative is yet.
 
 I recommend that everyone explore every tool that is available, even if I don't list it.
-
-| [Previous](../index.md) | [Home](../links.md) | [Next](01%20-%20Pre-reqs.md) |
-| :---------------------- | :-----------------: | ---------------------------: |

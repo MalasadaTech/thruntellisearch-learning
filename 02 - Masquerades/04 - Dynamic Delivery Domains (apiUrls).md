@@ -1,10 +1,5 @@
 # 04 - Dynamic Delivery Domains (apiUrls)
 
-| [Previous](03%20-%20Intel%20Collections.md) | [Home](../links.md) | [Next](05%20-%20Actioning%20the%20PuTTy%20Lure%20Intel.md) |
-| :------------------------------------------- | :-----------------: | ---------------------------------------------------------: |
-
-
-
 An analysis on the Dynamic Delivery Domains that are used in the variable "apiUrls".
 
 In the section "01 - Oyster Malware via Teams FakeApp", we gleaned the following Dynamic Delivery Domains: `witherspoon-law[.]com`, and `compaq-computers[.]com`. For continuity, I'm pasting the tables as they exist at this point. See the existing tables below.
@@ -219,6 +214,3 @@ This is the current Indicator Table.
 ## Summary
 
 We've analyzed the Dynamic Delivery Domains. These domains are stored in the `apiUrls` array of the `download*.js` file. You don't generate a request to one of the domains by accessing the lure page - you have to click the download button to generate a request to the Dynamic Delivery Domain. Because of that, you need to search for the domain in Any Run. We've identified a WinSCP lure and a Notepad++ lure that could lead us to additional adversary infrastructure (in a future section).
-
-| [Previous](03%20-%20Intel%20Collections.md) | [Home](../links.md) | [Next](05%20-%20Actioning%20the%20PuTTy%20Lure%20Intel.md) |
-| :------------------------------------------- | :-----------------: | ---------------------------------------------------------: |

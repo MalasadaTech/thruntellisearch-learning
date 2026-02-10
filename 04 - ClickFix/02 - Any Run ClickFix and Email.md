@@ -1,9 +1,5 @@
 # 02 - Any Run ClickFix + Email
 
-
-| [Previous](01%20-%20Any%20Run%20Susp-Clipboard%20and%20ClickFix%20Tags.md) | [Home](../links.md) | [Next](03%20-%20ClearFake.md) |
-
-
 ## Intro
 
 We will use an Any Run blog as an intel lead. We will use the explained behavior to create an Any Run Submission filter. We will identify a submission, find the pattern, action the pattern, and validate the pattern.
@@ -107,8 +103,3 @@ This is good enough for now. We have validated that the IP address 45.144.53[.]2
 We took the Any Run blog as an intel lead. We identified the behavior of ClickFix delivered via MalSpam. We created an Any Run Submission filter to find matching submissions. We reviewed the submission, and extracted the domain indicator. We identified that the IP address the indicator resolved to is being reused for the campaigns. We used the most recent domain that uses the IP, and crafted a custom urlscan scan task that uses a PowerShell User Agent string. We viewed the response and identified it is malicious code that continues the attack chain.
 
 We identify that we can monitor the IP address for upcoming domains that will resolve to it. We can monitor the attack chain absent of the MalSpam emails.
-
-
-
-| [Previous](01%20-%20Any%20Run%20Susp-Clipboard%20and%20ClickFix%20Tags.md) | [Home](../links.md) | [Next](03%20-%20ClearFake.md) |
-| :------------------------------------------------------------------------- | :-----------------: | ------------------------------: |

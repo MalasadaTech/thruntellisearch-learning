@@ -1,10 +1,5 @@
 # 04 - PoisonSeed Recruitment-themed Phishing
 
-| [Previous](03%20-%20NFCU%20Phishing.md) | [Home](../links.md) | [Next](05%20-%20Any%20Run%20MalSpam%20Investigations.md) |
-| :--------------------------------------- | :-----------------: | -------------------------------------------------------: |
-
-
-
 ## Intro
 
 We will take an intel lead for recruitment-themed phishing. We will do additional intel collections. We will action the intel by first searching Any Run submissions for sessions that analyze the phishing emails. We will extract the domain indicator from the Any Run session. I ran the domain in urlscan. We will access the urlscan task, and then we will analyze it and identify the pattern. We will action the pattern (the page title), and identify other domain indicators.
@@ -84,8 +79,3 @@ If you're feeling up to the task, you can try to determine how the threat actor 
 ## Summary
 
 We took an intel lead for recruitment-themed phishing. We did additional intel collections. We actioned the intel by first searching Any Run submissions for sessions that analyzed the phishing emails. We extracted the domain indicator from the Any Run session. I ran the domain in urlscan. We accessed the urlscan task, and then we analyzed it and identified the pattern. We actioned the pattern (the page title), and identified other domain indicators.
-
-| [Previous](03%20-%20NFCU%20Phishing.md) | [Home](../links.md) | [Next](05%20-%20Any%20Run%20MalSpam%20Investigations.md) |
-| :--------------------------------------- | :-----------------: | -------------------------------------------------------: |
-
-

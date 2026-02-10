@@ -1,8 +1,5 @@
 # Summary of 01 - WebInjects
 
-| [Previous](05%20-%20Discussion%20-%20General%20Process%20and%20Next%20Steps.md) | [Home](../links.md) | [Next](07%20-%20Resource%20-%20Thruntellisearch%20Template.md) |
-| :----------------------------------------------------------------------------- | :-----------------: | -------------------------------------------------------------: |
-
 ## Video Resources
 
 - A collection of "shorts" is here: 
@@ -70,6 +67,3 @@ You can move forward to the next section, or you can practice with the guidance 
 ## Closing Remarks
 
 Hope you've been enjoying the process. Let me know if anything should be clarified better.
-
-| [Previous](05%20-%20Discussion%20-%20General%20Process%20and%20Next%20Steps.md) | [Home](../links.md) | [Next](07%20-%20Resource%20-%20Thruntellisearch%20Template.md) |
-| :----------------------------------------------------------------------------- | :-----------------: | -------------------------------------------------------------: |

@@ -1,10 +1,5 @@
 # 02 - ZPHP (SmartApeSG)  
 
-| [Previous](01a%20-%20Questions%20-%2001%20-%20TA2726.md) | [Home](../links.md) | [Next](03%20-%20Discussion%20-%20Key%20Terms.md) |
-| :-------------------------------------------------------- | :-----------------: | ------------------------------------------------: |
-
-
-
 ## Video Resources
 
 - A collection of "shorts" is here: 
@@ -168,7 +163,3 @@ You can monitor the SmartApeSG tag using the link below.
 ## Summary
 
 In this section we’ve used Proofpoint ET as an intel lead and we’ve learned how to use THREATfox as an intel lead. We validated first-hand by checking the request patterns from compromised sites. We validated external by checking VT comments and THREATfox. We’ve learned how to pivot on the page title because the threat actors use a gym-themed template. We’ve learned how to scope the monitoring query to limit the ASNs to known-bad ASNs that the threat actor uses. We’ve learned how to continuously monitor threat actor activity by monitoring compromised sites for new requests.
-
-
-| [Previous](01a%20-%20Questions%20-%2001%20-%20TA2726.md) | [Home](../links.md) | [Next](03%20-%20Discussion%20-%20Key%20Terms.md) |
-| :-------------------------------------------------------- | :-----------------: | ------------------------------------------------: |

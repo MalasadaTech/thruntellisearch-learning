@@ -1,10 +1,5 @@
 # 04 - LandUpdate808
 
-| [Previous](03%20-%20Discussion%20-%20Key%20Terms.md) | [Home](../links.md) | [Next](05%20-%20Discussion%20-%20General%20Process%20and%20Next%20Steps.md) |
-| :--------------------------------------------------- | :-----------------: | --------------------------------------------------------------------------: |
-
-
-
 ## Video Resources
 
 - A collection of "shorts" is here: 
@@ -142,6 +137,3 @@ We can see that there is a request for 9x7x.js. This matches the pattern "#X#X.j
 ## Summary
 
 In this exercise we’ve used ProofPoint as an intel lead. We’ve validated the inject pattern for LandUpdate808 is "#X#X.js". We’ve identified that when the LandUpdate808 domain is scanned, it replies with “It works.”. We used that default reply property, and searched urlscan for the hash. Using the hash, we found an additional LandUpdate808 domain. We validated the additional domain is also injected into compromised sites using the same inject pattern. We validated externally using THREATfox.
-
-| [Previous](03%20-%20Discussion%20-%20Key%20Terms.md) | [Home](../links.md) | [Next](05%20-%20Discussion%20-%20General%20Process%20and%20Next%20Steps.md) |
-| :--------------------------------------------------- | :-----------------: | --------------------------------------------------------------------------: |

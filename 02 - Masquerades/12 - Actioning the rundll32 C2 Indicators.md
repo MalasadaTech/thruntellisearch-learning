@@ -1,10 +1,5 @@
 # 12 - Actioning the rundll32 C2 Indicators
 
-| [Previous](11%20-%20Using%20AI%20to%20Enrich%20Indicators.md) | [Home](../links.md) | [Next](13%20-%20Actioning%20New%20Masq%20Indicators.md) |
-| :------------------------------------------------------------- | :-----------------: | ---------------------------------------------------------: |
-
-
-
 ## Intro
 
 In this section we will action the three new `rundll32 C2` indicators that we recently found in sections 10 and 11. The three new `rundll32 C2` indicators are pasted below. We will search Any Run Submissions to see if we can find any new indicators.
@@ -138,7 +133,3 @@ This is the current Indicator Table.
 ## Summary
 
 In this section we actioned the `rundll32 C2` indicators in Any Run and we found two additional Teams masqs. This was a short and simple section.
-
-| [Previous](11%20-%20Using%20AI%20to%20Enrich%20Indicators.md) | [Home](../links.md) | [Next](13%20-%20Actioning%20New%20Masq%20Indicators.md) |
-| :------------------------------------------------------------- | :-----------------: | ---------------------------------------------------------: |
-

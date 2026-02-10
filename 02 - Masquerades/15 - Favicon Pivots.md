@@ -1,10 +1,5 @@
 # 15 - Favicon Pivots
 
-| [Previous](14%20-%20Revisit%20Pivot%20Number%201.md) | [Home](../links.md) | [Next](16%20-%20Summary%20of%2002%20-%20Masquerades.md) |
-| :----------------------------------------------------- | :-----------------: | -------------------------------------------------------: |
-
-
-
 ## Intro
 
 Favicon pivots are a common way to find additional adversary infrastructure. This section will dive into favicon pivots. We've been using the page title as the pivot (for the most part). Mikhail Kasimov shared a pivot on the favicon to find more thractor infrastructure here: https://x.com/500mk500/status/1998398735156384026. We will riff off of that and go exploring.
@@ -219,8 +214,3 @@ This is the current Indicator Table.
 ## Summary
 
 In this section we took action on Mikhail Kasimov's pivot lead for the favicon hash for the Teams masqs. We adapted it to use the SHA256. We went over the process to extract the SHA256 hash for the Teams masqs. We also used the Google Meet masq as an example to extract the favicon by finding the `shortcut icon` in the HTML code. We enhanced our query by filtering out legitimate sites, and by adding unique page title keywords.
-
-
-
-| [Previous](14%20-%20Revisit%20Pivot%20Number%201.md) | [Home](../links.md) | [Next](16%20-%20Summary%20of%2002%20-%20Masquerades.md) |
-| :----------------------------------------------------- | :-----------------: | -------------------------------------------------------: |
