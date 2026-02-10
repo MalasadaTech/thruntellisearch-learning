@@ -1,5 +1,10 @@
 # 16 - Summary
 
+| [Previous](15%20-%20Favicon%20Pivots.md) | [Home](../links.md) | [Next](../03%20-%20Phishing%20and%20MalSpam/00%20-%20Intro%20to%2003%20-%20Phishing%20and%20MalSpam.md) |
+| :---------------------------------------- | :-----------------: | --------------------------------------------------------------------------------------------------------: |
+
+
+
 ## Initial Summary Thoughts
 
 The `02 - Masquerades` section group packed a lot of info and techniques that you can use in your thruntellisearch endeavors. I hope you find future scenarios that you can apply this knowledge to. I hope this inspires you to master the tools that you have access to. I hope you become the world's greatest analyst.
@@ -92,3 +97,8 @@ In Section `15 - Favicon Pivots`, we used Mikhail Kasimov's X post as intel lead
 ## Malahoz
 
 Thanks for making it this far! See you in the next one!
+
+
+
+| [Previous](15%20-%20Favicon%20Pivots.md) | [Home](../links.md) | [Next](../03%20-%20Phishing%20and%20MalSpam/00%20-%20Intro%20to%2003%20-%20Phishing%20and%20MalSpam.md) |
+| :---------------------------------------- | :-----------------: | --------------------------------------------------------------------------------------------------------: |

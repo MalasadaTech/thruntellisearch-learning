@@ -1,5 +1,10 @@
 ## 07 - Use Proofpoint's Suricata Rules
 
+| [Previous](06%20-%20Actioning%20the%20AnyDesk%20Lure%20Intel.md) | [Home](../links.md) | [Next](08%20-%20Use%20Any%20Run%20Tag%20to%20Identify%20More%20Indicators.md) |
+| :--------------------------------------------------------------- | :-----------------: | -----------------------------------------------------------------------------: |
+
+
+
 ## Intro
 
 Before moving forward, I wanted to inject a new method of Thruntellisearching.
@@ -165,11 +170,6 @@ This is the current Indicator Table. Note that I've merged in two indicators by 
 
 In this activity, we took the Proofpoint Checkin Suricata rules, and we searched for Any Run submissions that had hits on that rule. We observed there were hits for URL and file submissions. We updated our tables.
 
-
-
-
-
-
-
-
+| [Previous](06%20-%20Actioning%20the%20AnyDesk%20Lure%20Intel.md) | [Home](../links.md) | [Next](08%20-%20Use%20Any%20Run%20Tag%20to%20Identify%20More%20Indicators.md) |
+| :--------------------------------------------------------------- | :-----------------: | -----------------------------------------------------------------------------: |
 

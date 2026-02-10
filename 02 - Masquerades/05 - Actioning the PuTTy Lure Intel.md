@@ -1,5 +1,10 @@
 # 05 - Actioning the PuTTy Lure Intel
 
+| [Previous](04%20-%20Dynamic%20Delivery%20Domains%20(apiUrls).md) | [Home](../links.md) | [Next](06%20-%20Actioning%20the%20AnyDesk%20Lure%20Intel.md) |
+| :--------------------------------------------------------------- | :-----------------: | -------------------------------------------------------------: |
+
+
+
 Actioning the PuTTy lures.
 
 ## Taking Action
@@ -267,6 +272,9 @@ This is the current Indicator Table.
 ## Summary
 
 We have successfully identified additional lures. The thractor is also using PuTTy lures. We continued actioning indicators in this ongoing cycle. We used Proofpoint as external validation.
+
+| [Previous](04%20-%20Dynamic%20Delivery%20Domains%20(apiUrls).md) | [Home](../links.md) | [Next](06%20-%20Actioning%20the%20AnyDesk%20Lure%20Intel.md) |
+| :--------------------------------------------------------------- | :-----------------: | -------------------------------------------------------------: |
 
 
 

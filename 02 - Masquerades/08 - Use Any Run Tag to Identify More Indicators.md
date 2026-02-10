@@ -1,5 +1,9 @@
 # 08 - Use Any Run Tag to Identify More Indicators
 
+| [Previous](07%20-%20Use%20Proofpoint's%20Suricata%20Rules.md) | [Home](../links.md) | [Next](09%20-%20Analyzing%20the%20C2.md) |
+| :------------------------------------------------------------ | :-----------------: | ------------------------------------------: |
+
+
 
 In the previous section, we used Proofpoint's Suricata Rules to identify additional adversary infrastructure. In this section, we will use Any Run's Oyster tag to identify more adversary infrastructure. It will be generally short, and we will highlight one instance only.
 
@@ -146,3 +150,8 @@ This is the current Indicator Table.
 ## Summary
 
 In this section we use the Oyster tag in Any Run to identify additional indicators. We added the `zoom-install[.]us` masq and the `mce-associates[.]com` dynamic delivery domain.
+
+
+
+| [Previous](07%20-%20Use%20Proofpoint's%20Suricata%20Rules.md) | [Home](../links.md) | [Next](09%20-%20Analyzing%20the%20C2.md) |
+| :------------------------------------------------------------ | :-----------------: | ------------------------------------------: |

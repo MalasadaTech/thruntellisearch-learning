@@ -1,5 +1,10 @@
 # 13 - Actioning New Masq Indicators
 
+| [Previous](12%20-%20Actioning%20the%20rundll32%20C2%20Indicators.md) | [Home](../links.md) | [Next](14%20-%20Revisit%20Pivot%20Number%201.md) |
+| :--------------------------------------------------------------------- | :-----------------: | -------------------------------------------------: |
+
+
+
 ## Intro
 
 If you haven't already caught it yet, this whole process is a repetitive loop where you find new indicators, and then take action on those new indicators for even more new indicators. That's what we'll do next. We most recently identified the two indicators listed below. For this part, we'll check for updated behaviors.
@@ -63,3 +68,7 @@ Additionally, scroll down to the `Process Tree` section and observe `PID: 6732` 
 ## Summary
 
 In this section, we analyzed the newly discovered Teams Masq indicators. We've identified the thractors are now filtering out unwanted requests and redirecting them to Google in some cases. We also identified the thractors are no longer using the apiUrls, but instead the thractor is hosting the malware on the masq landing page domain.
+
+
+| [Previous](12%20-%20Actioning%20the%20rundll32%20C2%20Indicators.md) | [Home](../links.md) | [Next](14%20-%20Revisit%20Pivot%20Number%201.md) |
+| :--------------------------------------------------------------------- | :-----------------: | -------------------------------------------------: |

@@ -1,5 +1,10 @@
 # Thruntellisearch Template
 
+| [Previous](06%20-%20Summary%20of%2001%20-%20WebInjects.md) | [Home](../links.md) | [Next](../02%20-%20Masquerades/00%20-%20Intro%20to%2002%20-%20Masquerades.md) |
+| :-------------------------------------------------------- | :-----------------: | -------------------------------------------------: |
+
+
+
 Copy this and use it as a template to practice the concepts. Use it as a "file in the blanks" worksheet.
 
 ## Intel Lead
@@ -53,3 +58,6 @@ Copy this and use it as a template to practice the concepts. Use it as a "file i
 
 **Link to show validation proof:**
 (Example: The following link shows that javascriptbasics[.]com uses the same WebInject pattern: https://urlscan.io/result/0199d4c1-a59b-754d-97a3-97de08b1f9d2/#transactions)
+
+| [Previous](06%20-%20Summary%20of%2001%20-%20WebInjects.md) | [Home](../links.md) | [Next](../02%20-%20Masquerades/00%20-%20Intro%20to%2002%20-%20Masquerades.md) |
+| :-------------------------------------------------------- | :-----------------: | -------------------------------------------------: |

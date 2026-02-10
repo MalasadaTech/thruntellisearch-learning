@@ -1,4 +1,10 @@
-# 01 - Intro
+
+# 00 - Intro
+
+| [Previous](../index.md) | [Home](../links.md) | [Next](01%20-%20Pre-reqs.md) |
+| :---------------------- | :-----------------: | ---------------------------: |
+
+
 
 ## What is CTI?
 
@@ -23,4 +29,13 @@ The guide above is for intel-driven hunts (hunts that begin because you read som
 
 I use many different tools. Some are free, some cost money. Some can be used without logging in, some require a login. Some let you use a free email address for signup, some require a non-free email address for signup. This collection of learning sections will prioritize tools that are free and can be used without authentication. My son and nephews are the target audience for this training collection. Using free and unauthenticated tools removes barriers to entry for my family, and for anyone else that may use this.
 
+- There is a caveat with Any Run. 
+	- When I first started working on this, you could search the Any Run submissions without being logged in.
+	- At some point before February of 2026, Any Run changed it so you now need to be logged in (with at least a free account) to search the submissions.
+	- I kept the Any Run content in because there's just too many parts that need it.
+	- I don't know what the alternative is yet.
+
 I recommend that everyone explore every tool that is available, even if I don't list it.
+
+| [Previous](../index.md) | [Home](../links.md) | [Next](01%20-%20Pre-reqs.md) |
+| :---------------------- | :-----------------: | ---------------------------: |

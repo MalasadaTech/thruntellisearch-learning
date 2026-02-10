@@ -1,6 +1,11 @@
 # Questions for 01 - TA2726
 
-The answers are a bit below the queries.
+| [Previous](01%20-%20TA2726.md) | [Home](../links.md) | [Next](02%20-%20ZPHP%20(SmartApeSG).md) |
+| :------------------------------ | :-----------------: | ---------------------------------------: |
+
+
+
+Sample questions for the section. The answers are a bit below the queries.
 
 Q1 - What is an intel source?
 
@@ -71,3 +76,6 @@ A13 - The 16/95 fraction shows how many vendors flagged the indicator as malicio
 
 A14 - The HTTP tab shows the HTTP transactions from a scan task.
 
+
+| [Previous](01%20-%20TA2726.md) | [Home](../links.md) | [Next](02%20-%20ZPHP%20(SmartApeSG).md) |
+| :------------------------------ | :-----------------: | ---------------------------------------: |

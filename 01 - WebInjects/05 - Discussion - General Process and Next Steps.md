@@ -1,6 +1,11 @@
 
 # 05 - Discussion - General Process and Next Steps
 
+| [Previous](04%20-%20LandUpdate808.md) | [Home](../links.md) | [Next](06%20-%20Summary%20of%2001%20-%20WebInjects.md) |
+| :------------------------------------- | :-----------------: | -----------------------------------------------------: |
+
+
+
 ## Video Resources
 
 - A collection of "shorts" is here: 
@@ -55,3 +60,6 @@ Explore other TAs and EKs. Are you able to observe inject patterns and infrastru
 If you haven’t already used the process to find additional adversary infrastructure, try it now. You will need to monitor the adversary over time. You will need to periodically check up on them for changes - changes in infrastructure and changes in behavior. Did SmartApeSG adopt a new template? Are they using a new AS? Does LandUpdate808 use a new default response instead of “It works.”? Consider the point in time disclaimer and how it applies.
 
 Record your findings. Document the new indicators when you find them. Document the new patterns when you find them.
+
+| [Previous](04%20-%20LandUpdate808.md) | [Home](../links.md) | [Next](06%20-%20Summary%20of%2001%20-%20WebInjects.md) |
+| :------------------------------------- | :-----------------: | -----------------------------------------------------: |

@@ -1,5 +1,10 @@
 # 06 - Actioning the AnyDesk Lure Intel
 
+| [Previous](05%20-%20Actioning%20the%20PuTTy%20Lure%20Intel.md) | [Home](../links.md) | [Next](07%20-%20Use%20Proofpoint's%20Suricata%20Rules.md) |
+| :-------------------------------------------------------------- | :-----------------: | ----------------------------------------------------------: |
+
+
+
 ## Intro
 Continuing down the Indicator Table, the next unique indicator to action is Indicator #12 - the AnyDesk lure domain `anydesksoftware[.]net`. See below for the current tables.
   
@@ -247,3 +252,6 @@ This is the current Indicator Table. Note that I've added a note for Indicator #
 ## Summary
 
 This was an unsuccessful pivot. We were unable to identify any other additional indicators. We added the indicator to the Indicator Table. We added a note stating we were unable to validate it as related. We will continue thruntellisearching.
+
+| [Previous](05%20-%20Actioning%20the%20PuTTy%20Lure%20Intel.md) | [Home](../links.md) | [Next](07%20-%20Use%20Proofpoint's%20Suricata%20Rules.md) |
+| :-------------------------------------------------------------- | :-----------------: | ----------------------------------------------------------: |

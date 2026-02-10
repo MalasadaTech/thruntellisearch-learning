@@ -1,5 +1,10 @@
 # 02 - AAFES Phishing Masqs
 
+| [Previous](01%20-%20Hypothesis-Driven.md) | [Home](../links.md) | [Next](03%20-%20NFCU%20Phishing.md) |
+| :----------------------------------------- | :-----------------: | ------------------------------------: |
+
+
+
 We’ll choose the military online shopping site for the BX (AAFES). Our hypothesis is stated as “Bad guys are likely pretending to be AAFES so that they can steal our passwords.” We will test that hypothesis by searching for masquerading sites. We can repeat the steps we’ve already taken. For the most part, we’ve been using page titles. Let’s continue with that.
 
 ## Hypothesis Lead
@@ -45,3 +50,5 @@ This is a good point to highlight how you won’t always get many external valid
 
 In this task we used a hypothesis lead, we identified the page title pattern, we actioned the pattern, we validated, and we used an external validation.
 
+| [Previous](01%20-%20Hypothesis-Driven.md) | [Home](../links.md) | [Next](03%20-%20NFCU%20Phishing.md) |
+| :----------------------------------------- | :-----------------: | ------------------------------------: |

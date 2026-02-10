@@ -1,5 +1,10 @@
 # 09 - Analyzing the C2
 
+| [Previous](08%20-%20Use%20Any%20Run%20Tag%20to%20Identify%20More%20Indicators.md) | [Home](../links.md) | [Next](10%20-%20Actioning%20the%20Initial%20C2%20Indicators.md) |
+| :------------------------------------------------------------------------------- | :-----------------: | ---------------------------------------------------------------: |
+
+
+
 ## Intro
 
 We will now analyze the C2 domain indicator to identify actionable patterns.
@@ -191,4 +196,9 @@ This is the current Indicator Table.
 ## Summary
 
 In this section we analyzed an Any Run session to identify the C2 domain. After we identified the C2 domain, we identified the C2 domain pattern, and performed a pivot to find more adversary infrastructure used for C2.
+
+
+
+| [Previous](08%20-%20Use%20Any%20Run%20Tag%20to%20Identify%20More%20Indicators.md) | [Home](../links.md) | [Next](10%20-%20Actioning%20the%20Initial%20C2%20Indicators.md) |
+| :------------------------------------------------------------------------------- | :-----------------: | ---------------------------------------------------------------: |
 

@@ -1,5 +1,10 @@
 # 03 - Discussion - Key Terms
 
+| [Previous](02%20-%20ZPHP%20(SmartApeSG).md) | [Home](../links.md) | [Next](04%20-%20LandUpdate808.md) |
+| :------------------------------------------- | :-----------------: | ---------------------------------: |
+
+
+
 ## Video Resources
 
 - A collection of "shorts" is here: 
@@ -44,3 +49,6 @@ Do make an effort to actively consider the given object type. Is it a technique,
 ## Summary
 
 This section covered high-level overviews of different object types and objects. It covered techniques such as WebInjects, FAKEUPDATES, and ClickFix. WebInjects is the technique of injecting malicious code into compromised websites. FAKEUPDATES describe the technique of tricking the victim into executing malware disguised as an update. ClickFix describes the technique of tricking the victim into pasting and executing malicious code. A Threat Actor (TA) is the entity that performs the bad activity (the person or group). An Exploit Kit (EK) describes specific kits used by TAs to deliver their payloads. The payload is the software that TAs seek to execute on victim computers. It covered specific objects such as TA2726, ZPHP, and LandUpdate808.
+
+| [Previous](02%20-%20ZPHP%20(SmartApeSG).md) | [Home](../links.md) | [Next](04%20-%20LandUpdate808.md) |
+| :------------------------------------------- | :-----------------: | ---------------------------------: |

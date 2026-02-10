@@ -1,5 +1,10 @@
 # Pre-required knowledge
 
+| [Previous](/00%20-%20Intro/00%20-%20Intro%20to%20the%20Collection.md) | [Home](../links.md) | [Next](../01%20-%20WebInjects/00%20-%20Intro%20to%2001%20-%20WebInjects.md) |
+| :-------------------------------------------- | :-----------------: | ----------------------------------------------------------: |
+
+
+
 I don't think there is a hard requirement to know the concepts below, but these would be nice-to-know things. I guess you should be able to continue without know the concepts below.
 
 - **Understand DNS**
@@ -14,8 +19,10 @@ I don't think there is a hard requirement to know the concepts below, but these 
 	- Use a [.] for domains and IPs
 	- It can vary with {.} or \\.
 	- ProofPoint uses a space in their rule titles like example .com
-- **Understand the domain registration process**
 - **Understand** that the term “**adversary infrastructure**” is a fancy way to say the domains or IPs that a cyber criminal uses.
 - **TA** is for **threat actor** - or "the bad guy"
-- **Understand** **first-hand** and **external** validation concepts
+
+
+| [Previous](/00%20-%20Intro/00%20-%20Intro%20to%20the%20Collection.md) | [Home](../links.md) | [Next](../01%20-%20WebInjects/00%20-%20Intro%20to%2001%20-%20WebInjects.md) |
+| :-------------------------------------------- | :-----------------: | ----------------------------------------------------------: |
 

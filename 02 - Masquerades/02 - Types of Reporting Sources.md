@@ -1,5 +1,10 @@
 # 02 - Types of Reporting Sources
 
+| [Previous](01%20-%20Oyster%20Malware%20via%20Teams%20FakeApp.md) | [Home](../links.md) | [Next](03%20-%20Intel%20Collections.md) |
+| :--------------------------------------------------------------- | :-----------------: | ---------------------------------------: |
+
+
+
 In section 02 - Masquerades  unit 01 - Oyster Malware via Teams FakeApp, we found a new intel lead while performing external validation. We found the following Bleeping Computer article: https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/. This is a good point to discuss some concepts like news aggregators, first-hand reporting, the difference between the aggregator and the first-hand reporting, drilling down to review sources, and the intel-loop.
 
 Generally, news aggregators will perform little to no first hand technical research, while cyber security product and service providers will perform only or mostly first hand technical research.
@@ -33,3 +38,6 @@ In addition to analyzing the value added, review the sources that are cited. Per
 https://blackpointcyber.com/blog/malicious-teams-installers-drop-oyster-malware/
 
 https://www.rapid7.com/blog/post/2024/06/17/malvertising-campaign-leads-to-execution-of-oyster-backdoor/
+
+| [Previous](01%20-%20Oyster%20Malware%20via%20Teams%20FakeApp.md) | [Home](../links.md) | [Next](03%20-%20Intel%20Collections.md) |
+| :--------------------------------------------------------------- | :-----------------: | ---------------------------------------: |

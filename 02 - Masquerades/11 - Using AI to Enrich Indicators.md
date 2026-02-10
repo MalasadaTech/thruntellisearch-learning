@@ -1,5 +1,10 @@
 # 11 - Using AI to Enrich Indicators
 
+| [Previous](10%20-%20Actioning%20the%20Initial%20C2%20Indicators.md) | [Home](../links.md) | [Next](12%20-%20Actioning%20the%20rundll32%20C2%20Indicators.md) |
+| :------------------------------------------------------------------ | :-----------------: | -----------------------------------------------------------------: |
+
+
+
 ## Intro
 
 This will be a quick section. I don't think I've done any external validation in this Masquerades section group. You can perform a similar function, but instead of searching to validate your findings, you will be searching to enrich your findings.
@@ -158,3 +163,8 @@ This is the current Indicator Table.
 ## Summary
 
 This was a quick section to show how AI can be used to enrich the indicators. As you find indicators, you should run an AI prompt to find additional CTI reports that include the indicator you just found.
+
+
+
+| [Previous](10%20-%20Actioning%20the%20Initial%20C2%20Indicators.md) | [Home](../links.md) | [Next](12%20-%20Actioning%20the%20rundll32%20C2%20Indicators.md) |
+| :------------------------------------------------------------------ | :-----------------: | -----------------------------------------------------------------: |
