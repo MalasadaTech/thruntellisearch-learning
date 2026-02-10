@@ -8,6 +8,7 @@ It's difficult to make the navigation page using MD. Here's the navigation page 
 ## Index
 [[index]]
 
+
 ## 00 - Intro
 [[00 - Intro to the Collection]]
 [[01 - Pre-reqs]]

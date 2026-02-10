@@ -1,10 +1,43 @@
-title: ThruntelliSearch Learning     # This shows as the main header / site title (cleaner than raw repo name)
-description: A collection of ThruntelliSearch notes and learning materials
+remote_theme: just-the-docs/just-the-docs
 
-theme: minima
-minima:
-  skin: dark                        # Or 'auto' for system preference
+# Optional but recommended
+title: ThruntelliSearch Learning
+description: Notes and resources for ThruntelliSearch
 
-header_pages:                       # This controls the top-right nav links (in order)
-  - index.md                        # → Becomes "Home" or uses title from front matter
-  - links.md                        # → Becomes "Links" or uses title from front matter
+color_scheme: dark   # or 'light', or remove for system auto
+
+# Enable search
+search_enabled: true
+
+# Aux links (top-right, optional)
+aux_links:
+  GitHub Repo: https://github.com/MalasadaTech/thruntellisearch-learning
+
+# For sidebar nav — define your main navigation here
+nav_external_links:
+  - title: Home
+    url: /
+  - title: Links / Resources
+    url: /links/
+
+nav:
+  - title: Home
+    url: /
+  - title: Intro
+    children:
+      - title: Intro to the Collection
+        url: /00-Intro/00-Intro-to-the-Collection/   # Use pretty permalinks
+      - title: Pre-reqs
+        url: /00-Intro/01-Pre-reqs/
+  - title: WebInjects
+    url: /01-WebInjects/00-Intro-to-01-WebInjects/
+  - title: Masquerades
+    url: /02-Masquerades/00-Intro-to-02-Masquerades/
+  - title: Phishing and MalSpam
+    url: /03-Phishing-and-MalSpam/00-Intro-to-03-Phishing-and-MalSpam/
+  - title: ClickFix
+    url: /04-ClickFix/00-Intro-to-04-ClickFix/
+  - title: Self Growth Tasks
+    url: /05-Self-Growth-Tasks/00-Intro-to-05-Self-Growth-Tasks/
+  - title: Links
+    url: /links/
