@@ -1,10 +1,10 @@
-title: ThruntelliSearch Learning
-theme: minima   # or leave blank for default
+title: ThruntelliSearch Learning     # This shows as the main header / site title (cleaner than raw repo name)
+description: A collection of ThruntelliSearch notes and learning materials
 
+theme: minima
 minima:
-  skin: dark
+  skin: dark                        # Or 'auto' for system preference
 
-header_pages:
-  - index.md          # Home / main page
-  - links.md          # If you want "Links" or whatever title it has
-  - about.md          # Example extra page
+header_pages:                       # This controls the top-right nav links (in order)
+  - index.md                        # → Becomes "Home" or uses title from front matter
+  - links.md                        # → Becomes "Links" or uses title from front matter

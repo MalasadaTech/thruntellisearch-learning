@@ -1,4 +1,6 @@
 ---
+title: Home
+layout: home               # or 'page' — 'home' is good for index
 ---
 
 # thruntellisearch-learning

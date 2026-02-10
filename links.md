@@ -1,5 +1,5 @@
 ---
-title: Navigation / Links
+title: Links                # This becomes the nav link text
 layout: page
 ---
 
