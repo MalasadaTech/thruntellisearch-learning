@@ -1,2 +1,5 @@
 title: ThruntelliSearch Learning
 theme: minima   # or leave blank for default
+
+minima:
+  skin: dark
