@@ -1,4 +1,6 @@
 ---
+title: Navigation / Links
+layout: page
 ---
 
 It's difficult to make the navigation page using MD. Here's the navigation page for reference.
