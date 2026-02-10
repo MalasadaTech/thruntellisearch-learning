@@ -3,3 +3,8 @@ theme: minima   # or leave blank for default
 
 minima:
   skin: dark
+
+header_pages:
+  - index.md          # Home / main page
+  - links.md          # If you want "Links" or whatever title it has
+  - about.md          # Example extra page
