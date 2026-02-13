@@ -20,6 +20,7 @@ A repo of thruntellisearch stuff for my son.
 
 ## Tool Prioritization
 - There is a priority to use free tools that can be used without logging in.
+
 ## Slow Ramp Up
 - In the beginning lessons, there isn’t much discussion on what the bad activities are or how they work, it focuses on analyzing infrastructure patterns.
 	- Teaching how to analyze code may be out of scope for this (or in-depth code analysis is out of scope).
