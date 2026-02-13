@@ -17,13 +17,6 @@ A repo of thruntellisearch stuff for my son.
 
 ## Tool Prioritization
 - There is a priority to use free tools that can be used without logging in.
-- There is a caveat with Any Run. 
-	- When I first started working on this, you could search the Any Run submissions without being logged in.
-	- At some point before February of 2026, Any Run changed it so you now need to be logged in (with at least a free account) to search the submissions.
-	- I kept the Any Run content in because there's just too many parts that need it.
-	- I don't know what the alternative is yet.
-
-
 ## Slow Ramp Up
 - In the beginning lessons, there isn’t much discussion on what the bad activities are or how they work, it focuses on analyzing infrastructure patterns.
 	- Teaching how to analyze code may be out of scope for this (or in-depth code analysis is out of scope).
