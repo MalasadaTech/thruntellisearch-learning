@@ -1,6 +1,9 @@
 # thruntellisearch-learning
 A repo of thruntellisearch stuff for my son.
 
+## Online Version
+- Access the online version here: https://thruntellisearch-learning.malasada.tech/
+
 ## Purpose
 - To share my hobby with my son, and to teach him how to do "thruntellisearch". 
 	- Probably my nephews too if they want to try.
